@@ -15,8 +15,11 @@ or disable service, transmit signals to disrupt other nodes, or snoop or leak se
 The project combines theory in hardware security and communications theory to detect and mitigate
 these attacks.
 
+<img src="concept.png" alt="Example hardware security system"
+     style="float: left; margin-right: 10px;" width="500" />
+
 ## Research Thrusts 
-The work is developed in four closely related thrusts. 
+The work is developed in four closely related thrusts:
 * Thrust 1 develops computationally efficient methods to detect the presence of hardware Trojans in both the baseband and RF. 
 * Thrust 2 provides rigorous bounds to estimate the capacity of undetected hardware attacks and enables a critical optimization of
 the power and computation on hardware verification and potential throughput degradation. 
